@@ -13,9 +13,9 @@ My main tools are React, Node.js, JavaScript, and Python, but from time to time 
 
 I learned programming before AI assistants became a thing, so yes - I still know how to use documentation.
 
-I like understanding how things work under the hood. I started in a computer science technical high school and later became a Computer Engineering graduate.
+I like understanding how things work below. I started in a computer science technical high school and later I became a Computer Engineering graduate.
 
-I enjoy building projects from scratch and turning ideas into real products. I get genuinely excited about the projects I work on. 
+I enjoy making projects from scratch and turning ideas into real products. I get genuinely excited about the projects I work on. 
 
 ## Featured projects
 
